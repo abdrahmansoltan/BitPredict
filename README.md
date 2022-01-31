@@ -27,5 +27,4 @@ Building a series of Time-Series models in an attempt to predict the price of Bi
 
 ## Final Prediction
 
-![final_prediction]("images/final_prediction.png")
 <img src="images/final_prediction.png">
